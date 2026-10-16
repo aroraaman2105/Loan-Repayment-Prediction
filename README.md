@@ -23,5 +23,8 @@ The dataset contains borrower details, financial records, and loan information. 
 ## Results
 The trained model achieves competitive performance in predicting loan repayment status. Key metrics such as accuracy, precision, recall, and F1-score are evaluated and compared across different models.
 
+<img width="552" height="432" alt="image" src="https://github.com/user-attachments/assets/a4f56157-f0a6-440a-b9d1-654aca000148" />
+
+
 ## Contributing
 Contributions are welcome. Please create an issue or submit a pull request with improvements.
