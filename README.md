@@ -28,9 +28,3 @@ The trained model achieves competitive performance in predicting loan repayment 
 <img width="1014" height="527" alt="image" src="https://github.com/user-attachments/assets/4688e67b-865c-4b58-a6d7-e2f8f6599b4c" />
 <img width="632" height="485" alt="image" src="https://github.com/user-attachments/assets/78660a40-0508-4bad-8ef5-d23f61a4840b" />
 
-
-
-
-
-## Contributing
-Contributions are welcome. Please create an issue or submit a pull request with improvements.
